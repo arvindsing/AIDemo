@@ -10,6 +10,7 @@ import { isEmpty } from "lodash-es";
 import DOMPurify from 'dompurify';
 
 import styles from "./Chat.module.css";
+import demoarv from "../../assets/demoarv.svg";
 import Contoso from "../../assets/demoarv.svg";
 import { XSSAllowTags } from "../../constants/xssAllowTags";
 
