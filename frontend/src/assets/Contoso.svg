@@ -11,8 +11,8 @@
    inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/aa.svg"
+   xmlns:svg="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/aa.svg">
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
