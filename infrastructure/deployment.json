@@ -253,7 +253,7 @@
         }
     },
     "variables": {
-        "WebAppImageName": "DOCKER|demoarv.azurecr.io/ai:336",
+        "WebAppImageName": "DOCKER|demoarv.azurecr.io/ai:338",
         "cosmosdb_account_name": "[format('db-{0}', parameters('WebsiteName'))]",
         "cosmosdb_database_name": "db_conversation_history",
         "cosmosdb_container_name": "conversations",
