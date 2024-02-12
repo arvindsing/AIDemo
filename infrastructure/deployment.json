@@ -4,14 +4,14 @@
     "parameters": {
         "HostingPlanName": {
             "type": "string",
-            "defaultValue": "[guid(resourceGroup().id)]",
+            "defaultValue": "demoarvai2",
             "metadata": {
                 "description": "Name of App Service plan"
             }
         },
         "HostingPlanSku": {
             "type": "string",
-            "defaultValue": "B3",
+            "defaultValue": "B1",
             "allowedValues": [
                 "F1",
                 "D1",
@@ -32,14 +32,14 @@
         },
         "WebsiteName": {
             "type": "string",
-            "defaultValue": "[guid(resourceGroup().id)]",
+            "defaultValue": "demoarvai2",
             "metadata": {
                 "description": "Name of Web App"
             }
         },
         "ApplicationInsightsName": {
             "type": "string",
-            "defaultValue": "[guid(resourceGroup().id)]",
+            "defaultValue": "demoarvai2",
             "metadata": {
                 "description": "Name of Application Insights"
             }
